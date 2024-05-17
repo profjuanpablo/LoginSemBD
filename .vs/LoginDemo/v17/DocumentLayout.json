@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\views\\collaborator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\views\\collaborator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\views\\admin\\manageproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\views\\admin\\manageproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\views\\collaborator\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\views\\collaborator\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\controllers\\collaboratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\controllers\\collaboratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|c:\\users\\profj\\\u00E1rea de trabalho\\aspmvc\\logindemo\\logindemo\\migrations\\20240517134051_criarbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9D288-BF05-4251-9C6E-40ED07AE53B4}|LoginDemo\\LoginDemo.csproj|solutionrelative:logindemo\\migrations\\20240517134051_criarbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:59:54.638Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240517134051_criarBD.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Migrations\\20240517134051_criarBD.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Migrations\\20240517134051_criarBD.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Migrations\\20240517134051_criarBD.cs",
+              "RelativeToolTip": "LoginDemo\\Migrations\\20240517134051_criarBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:40:51.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\appsettings.json",
+              "RelativeToolTip": "LoginDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T13:34:35.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LoginDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:33:10.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Models\\Product.cs",
+              "RelativeToolTip": "LoginDemo\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:32:19.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Models\\User.cs",
+              "RelativeToolTip": "LoginDemo\\Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:31:27.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginDemo\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "LoginDemo\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:56:53.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "LoginDemo\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:48:35.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T13:49:13.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "LoginDemo\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:49:07.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Program.cs",
+              "RelativeToolTip": "LoginDemo\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:54:37.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Admin\\ManageProducts.cshtml",
+              "RelativeDocumentMoniker": "LoginDemo\\Views\\Admin\\ManageProducts.cshtml",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Admin\\ManageProducts.cshtml",
+              "RelativeToolTip": "LoginDemo\\Views\\Admin\\ManageProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:57:27.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LoginDemo\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:56:20.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CollaboratorController.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\CollaboratorController.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Controllers\\CollaboratorController.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\CollaboratorController.cs",
+              "RelativeToolTip": "LoginDemo\\Controllers\\CollaboratorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:57:48.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LoginDemo\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LoginDemo\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:55:07.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Collaborator\\ViewProducts.cshtml",
+              "RelativeDocumentMoniker": "LoginDemo\\Views\\Collaborator\\ViewProducts.cshtml",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Collaborator\\ViewProducts.cshtml",
+              "RelativeToolTip": "LoginDemo\\Views\\Collaborator\\ViewProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:58:44.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Collaborator\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginDemo\\Views\\Collaborator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Collaborator\\Index.cshtml",
+              "RelativeToolTip": "LoginDemo\\Views\\Collaborator\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:58:21.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginDemo\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\profj\\\u00C1rea de Trabalho\\ASPMVC\\LoginDemo\\LoginDemo\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LoginDemo\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:55:50.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
